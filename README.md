@@ -3,9 +3,11 @@ some final project in the Statistic with R course
 
 the normal html pages are as followes
 
-内容由markdonw编辑完成，并转换为html。
+内容由markdonw编辑完成，最后转换为html。
 
 访问正常的分析页面请点击下面链接
+
+
 
 不同教育水平的人，他们的孩子数量是否有差别？这种差别是否有统计学的意义？
 
